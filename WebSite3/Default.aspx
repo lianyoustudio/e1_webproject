@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-       毕业论文选题系统
+         毕业论文选题系统
     <a href="Login.aspx" >从此进入</a>.
     </h2>
     <p>
