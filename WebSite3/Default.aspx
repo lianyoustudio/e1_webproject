@@ -13,7 +13,7 @@
     <p>
         罗文杰： <a href=" http://wenjieweb4.apphb.com/" > http://wenjieweb4.apphb.com/</a></p>
     <p>
-        黄伟灏：</p>
+        黄伟灏：<a href="http://weihaoweb.apphb.com/"> http://weihaoweb.apphb.com/</a></p>
     <p>
         黄佳林：</p>
 </asp:Content>
