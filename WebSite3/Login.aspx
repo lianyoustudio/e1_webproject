@@ -40,8 +40,9 @@
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Button ID="btnlogin" runat="server" Text="登 录" 
                     onclick="btnlogin_Click" />&nbsp;&nbsp;&nbsp;&nbsp;
       </td></tr></table>  
-            
-    
+
+        <p>备注：因为在网上申请的数据库试了很久也连接不上，所以现在也是无法登陆的。</p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp; 现在只连接了本地的数据库，可以运行邮箱中的工程来查看。</p>
     </div>
     </form>
 </body>
